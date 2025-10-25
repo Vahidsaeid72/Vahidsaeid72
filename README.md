@@ -57,7 +57,7 @@ Worked on both frontend (React + Tailwind) and backend (Laravel).
 Improving my expertise in:
 - Advanced Next.js patterns (App Router, Server Components)
 - Scalable frontend architecture
-- Frontend testing and CI/CD pipelines
+- Creating personal projects and building my online brand — from innovative web apps to personal portfolio sites that showcase my work and vision
 
 ---
 
